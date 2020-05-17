@@ -1,5 +1,4 @@
 # Mini_DBaas_for_Rideshare
-Cloud Computing Project (Jan-May 2020)
 This repo contains the the code for all the three assignments and final project for the course Cloud Computing - UE17CS352
 
 Following are the instructions to run each of the assignments and project
