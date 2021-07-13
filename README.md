@@ -1,6 +1,12 @@
 # Mini_DBaas_for_Rideshare
 This repo contains the the code for all the three assignments and final project for the course Cloud Computing - UE17CS352
 
+Contributors:
+Sneha Nemadi
+Swathi M
+Prakruti Rao
+Pushpavathi K N
+
 Following are the instructions to run each of the assignments and project
 
 ->Project:
